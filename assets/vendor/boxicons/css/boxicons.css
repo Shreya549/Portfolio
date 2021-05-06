@@ -655,10 +655,10 @@
 .bxl-google:before {
   content: "\e92b";
 }
-.bxl-github:before {
+.bxl-google-plus:before {
   content: "\e92c";
 }
-.bxl-github-circle:before {
+.bxl-google-plus-circle:before {
   content: "\e92d";
 }
 .bxl-html5:before {
